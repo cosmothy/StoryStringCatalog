@@ -58,13 +58,34 @@
       }
     },
     "* Min size: 1620x1080 (3:2)" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*最小尺寸：1620x1080（3:2）"
+          }
+        }
+      }
     },
     "* The file storage should not exceeds 5GB" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*文件大小不可以大于5GB"
+          }
+        }
+      }
     },
     "* The file storage should not exceeds 20MB" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*文件大小不可以大于20MB"
+          }
+        }
+      }
     },
     "*Cover" : {
       "localizations" : {
@@ -201,6 +222,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@ Document Size: %2$@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ 文件大小: %2$@"
           }
         }
       }
@@ -532,7 +559,7 @@
       }
     },
     "Are you sure to terminate the app?" : {
-      "extractionState" : "stale",
+      "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -550,6 +577,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "确定退出应用吗？"
+          }
+        }
+      }
+    },
+    "Are you sure you want to cancel the upload?" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确定要取消上传吗？"
           }
         }
       }
@@ -1063,7 +1100,7 @@
       }
     },
     "Country Code" : {
-
+      "shouldTranslate" : false
     },
     "Create" : {
       "localizations" : {
@@ -1198,7 +1235,14 @@
       }
     },
     "Debug Mode" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "调试模式"
+          }
+        }
+      }
     },
     "Decrease number" : {
       "extractionState" : "manual",
@@ -1713,7 +1757,14 @@
       }
     },
     "Environment" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "环境"
+          }
+        }
+      }
     },
     "Exit" : {
       "localizations" : {
@@ -2592,14 +2643,8 @@
         }
       }
     },
-    "Logout" : {
+    "Log Out" : {
       "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Logout"
-          }
-        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2739,29 +2784,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "分"
-          }
-        }
-      }
-    },
-    "Min size: 1620x1080 (3:2)" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Min size: 1620x1080 (3:2)"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "最小サイズ: 1620x1080 (3:2)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "最小尺寸：1620x1080（3:2）"
           }
         }
       }
@@ -2987,7 +3009,7 @@
       }
     },
     "No" : {
-      "extractionState" : "stale",
+      "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -3298,7 +3320,7 @@
       }
     },
     "Password" : {
-
+      "shouldTranslate" : false
     },
     "Pause" : {
       "localizations" : {
@@ -4793,6 +4815,12 @@
             "state" : "translated",
             "value" : "設定"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置"
+          }
         }
       }
     },
@@ -4885,10 +4913,24 @@
       }
     },
     "Show Export/Import" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示导入/导出"
+          }
+        }
+      }
     },
     "Show Logs" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示日志"
+          }
+        }
+      }
     },
     "Show Toast 123" : {
       "localizations" : {
@@ -5981,7 +6023,14 @@
       }
     },
     "Turn Off Debug Mode" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭调试"
+          }
+        }
+      }
     },
     "Tutorial" : {
       "localizations" : {
@@ -6050,7 +6099,14 @@
       }
     },
     "Unlisted" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未上架"
+          }
+        }
+      }
     },
     "Unlit" : {
       "extractionState" : "manual",
@@ -6203,10 +6259,24 @@
       }
     },
     "User Info" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用户信息"
+          }
+        }
+      }
     },
     "UserId" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用户ID"
+          }
+        }
+      }
     },
     "Username" : {
       "localizations" : {
